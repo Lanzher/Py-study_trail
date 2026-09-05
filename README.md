@@ -1,3 +1,4 @@
+<img width="159" height="159" alt="GPXP1" src="https://github.com/user-attachments/assets/4e764230-59e8-4876-b854-5a0315ab84d4" />
 # Py-study_trail
 我对Py+study的小想法，初学者exploring。。。。。。
 我是一个业余代码爱好者，略懂Python，learning。。。。。。
