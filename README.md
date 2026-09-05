@@ -1,4 +1,4 @@
-<img width="159" height="159" alt="GPXP1" src="https://github.com/user-attachments/assets/4e764230-59e8-4876-b854-5a0315ab84d4" />
+
 # Py-study_trail
 我对Py+study的小想法，初学者exploring。。。。。。
 我是一个业余代码爱好者，略懂Python，learning。。。。。。
@@ -7,3 +7,4 @@
 Treephyer是1.0.0的名字，
 现在叫:物理蟒状图（测试体验壹）/GraphysicalPyXP1 v1.29.31(和deepseek讨论了很久，多次修改就变成1.29.31)
 这是一个不同寻常的"树状图"生成器，它有了一定的物理效果，像线索墙一样将知识点串联在一起（或者并联?:)）
+<img width="159" height="159" alt="GPXP1" src="https://github.com/user-attachments/assets/4e764230-59e8-4876-b854-5a0315ab84d4" />
